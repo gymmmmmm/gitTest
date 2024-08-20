@@ -1,0 +1,2 @@
+gym test git:
+1. git init 仓库初始化
